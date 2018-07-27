@@ -1,0 +1,60 @@
+.header {
+    height: 15%;
+    background-color: aliceblue;
+}
+
+.logo {
+    float: left;
+    width: 25%;
+    height: 70%;
+    margin: 1%;
+}
+
+.logo img {
+    width: 70%;
+    height: auto;
+}
+
+.left {
+    float: left;
+    width: 69%;
+    min-height: 70%;
+    border-right: solid 1px;
+}
+
+.right {
+    float: right;
+    width: 30%;
+    min-height: 70%;
+    text-align: center;
+}
+#itemTable, #billTable{
+    width: 45%;
+    margin: 5% 15% 0% 25%;
+    text-align: center;
+     
+}
+
+#itemTable input{
+    width: 25%;
+}
+#cartTable{
+    width: 45%;
+    margin-left: 35%;
+    text-align: center;
+}
+.search{
+    float: left;
+    width: 40%;
+    height: 15%;
+    margin-top: 3%;
+}
+.login{
+    float: right;
+    width: 10%;
+    height: 15%;
+}
+#addToCart{
+    margin-left:40%;
+    margin-top: 5%;
+}
